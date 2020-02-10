@@ -1,0 +1,19 @@
+{
+    "name": "hrt\\j]\\rtj]6i65j][5d6]ik6\\]i[6\\rtjr]\\d[\\]i\\]d]\\f\\]s]",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
